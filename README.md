@@ -8,7 +8,7 @@ Setting up a development environment for ReactNative app with :
 
 Linter :
 
-I used Eslint with Airbnb rules.
+I used Eslint with Standard rules, and I add a rule for keeping semicolon
 
 Unit and UI tests
 
